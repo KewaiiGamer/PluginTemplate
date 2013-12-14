@@ -1,0 +1,4 @@
+PluginTemplate
+==============
+
+PluginTemplate For Bukkit
